@@ -1,2 +1,2 @@
 This is my first text file created locally
-This text file is modified
+This text file is modified locally
